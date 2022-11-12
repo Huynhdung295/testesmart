@@ -1,8 +1,8 @@
 export const Service = () => {
   return (
-    <div className="vc_row wpb_row vc_row-fluid vc_custom_1567497783395">
+    <div className="vc_row wpb_row vc_row-fluid">
       <div className="wpb_column vc_column_container vc_col-sm-3">
-        <div className="vc_column-inner vc_custom_1566992943471">
+        <div className="vc_column-inner">
           <div className="wpb_wrapper">
             <div className="mt-icon-listgroup-item wow ">
               <a href="https://ibid.modeltheme.com">
@@ -36,7 +36,7 @@ export const Service = () => {
         </div>
       </div>
       <div className="wpb_column vc_column_container vc_col-sm-3">
-        <div className="vc_column-inner vc_custom_1566992948720">
+        <div className="vc_column-inner">
           <div className="wpb_wrapper">
             <div className="mt-icon-listgroup-item wow ">
               <a href="https://ibid.modeltheme.com">
@@ -70,7 +70,7 @@ export const Service = () => {
         </div>
       </div>
       <div className="wpb_column vc_column_container vc_col-sm-3">
-        <div className="vc_column-inner vc_custom_1566992955232">
+        <div className="vc_column-inner">
           <div className="wpb_wrapper">
             <div className="mt-icon-listgroup-item wow ">
               <a href="https://ibid.modeltheme.com">
@@ -104,7 +104,7 @@ export const Service = () => {
         </div>
       </div>
       <div className="wpb_column vc_column_container vc_col-sm-3">
-        <div className="vc_column-inner vc_custom_1566992960725">
+        <div className="vc_column-inner">
           <div className="wpb_wrapper">
             <div className="mt-icon-listgroup-item wow ">
               <a href="https://ibid.modeltheme.com">

@@ -3,7 +3,7 @@ export const ListBranch = () => {
     <div
       data-vc-full-width="true"
       data-vc-full-width-init="true"
-      className="vc_row wpb_row vc_row-fluid vc_custom_1570010856447 vc_row-has-fill"
+      className="vc_row wpb_row vc_row-fluid vc_row-has-fill"
       style={{
         position: "relative",
         left: "-16.5px",

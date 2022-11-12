@@ -3,19 +3,10 @@ export const IntroProduct = () => {
     <div
       data-vc-full-width="true"
       data-vc-full-width-init="true"
-      className="vc_row wpb_row vc_row-fluid vc_custom_1565679559621"
-      style={{
-        position: "relative",
-        left: "-16.5px",
-        boxSizing: "border-box",
-        width: 1333,
-        maxWidth: 1333,
-        paddingLeft: "16.5px",
-        paddingRight: "16.5px",
-      }}
+      className="vc_row wpb_row vc_row-fluid"
     >
       <div className="wpb_column vc_column_container vc_col-sm-12">
-        <div className="vc_column-inner vc_custom_1496911267002">
+        <div className="vc_column-inner">
           <div className="wpb_wrapper">
             <div className="masonry_banners banners_column">
               <div className="vc_col-md-6">

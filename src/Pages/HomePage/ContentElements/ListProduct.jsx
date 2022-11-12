@@ -3,7 +3,7 @@ export const ListProduct = () => {
     <div
       data-vc-full-width="true"
       data-vc-full-width-init="true"
-      className="vc_row wpb_row vc_row-fluid vc_custom_1567498077044"
+      className="vc_row wpb_row vc_row-fluid"
       style={{
         position: "relative",
         left: "-16.5px",

@@ -265,9 +265,9 @@ export const Header = () => {
                           Phones
                         </a>
                         <div className="cf-mega-menu sub-menu">
-                          <div className="vc_row wpb_row vc_row-fluid no-margin vc_custom_1528793566052 vc_row-has-fill">
+                          <div className="vc_row wpb_row vc_row-fluid no-margin vc_row-has-fill">
                             <div className="wpb_column vc_column_container vc_col-sm-6">
-                              <div className="vc_column-inner vc_custom_1566989874515">
+                              <div className="vc_column-inner">
                                 <div className="wpb_wrapper">
                                   <div className="wpb_text_column wpb_content_element wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_start_animation animated">
                                     <div className="wpb_wrapper">
@@ -375,7 +375,7 @@ export const Header = () => {
                               </div>
                             </div>
                             <div className="wpb_column vc_column_container vc_col-sm-6">
-                              <div className="vc_column-inner vc_custom_1566989880923">
+                              <div className="vc_column-inner">
                                 <div className="wpb_wrapper">
                                   <div className="wpb_text_column wpb_content_element wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_start_animation animated">
                                     <div className="wpb_wrapper">
@@ -464,9 +464,9 @@ export const Header = () => {
                           Software
                         </a>
                         <div className="cf-mega-menu sub-menu">
-                          <div className="vc_row wpb_row vc_row-fluid no-margin vc_custom_1528793566052 vc_row-has-fill">
+                          <div className="vc_row wpb_row vc_row-fluid no-margin vc_row-has-fill">
                             <div className="wpb_column vc_column_container vc_col-sm-6">
-                              <div className="vc_column-inner vc_custom_1566908578324">
+                              <div className="vc_column-inner">
                                 <div className="wpb_wrapper">
                                   <div className="wpb_text_column wpb_content_element wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_start_animation animated">
                                     <div className="wpb_wrapper"></div>
@@ -577,7 +577,7 @@ export const Header = () => {
                               </div>
                             </div>
                             <div className="wpb_column vc_column_container vc_col-sm-6">
-                              <div className="vc_column-inner vc_custom_1566908586911">
+                              <div className="vc_column-inner">
                                 <div className="wpb_wrapper">
                                   <div className="wpb_text_column wpb_content_element wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_start_animation animated">
                                     <div className="wpb_wrapper"></div>
@@ -678,9 +678,9 @@ export const Header = () => {
                           Home Appliances &amp; AC
                         </a>
                         <div className="cf-mega-menu sub-menu">
-                          <div className="vc_row wpb_row vc_row-fluid no-margin vc_custom_1528793566052 vc_row-has-fill">
+                          <div className="vc_row wpb_row vc_row-fluid no-margin vc_row-has-fill">
                             <div className="wpb_column vc_column_container vc_col-sm-6">
-                              <div className="vc_column-inner vc_custom_1566989874515">
+                              <div className="vc_column-inner">
                                 <div className="wpb_wrapper">
                                   <div className="wpb_text_column wpb_content_element wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_start_animation animated">
                                     <div className="wpb_wrapper">
@@ -788,7 +788,7 @@ export const Header = () => {
                               </div>
                             </div>
                             <div className="wpb_column vc_column_container vc_col-sm-6">
-                              <div className="vc_column-inner vc_custom_1566989880923">
+                              <div className="vc_column-inner">
                                 <div className="wpb_wrapper">
                                   <div className="wpb_text_column wpb_content_element wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_start_animation animated">
                                     <div className="wpb_wrapper">
@@ -877,9 +877,9 @@ export const Header = () => {
                           Games &amp; Consoles
                         </a>
                         <div className="cf-mega-menu sub-menu">
-                          <div className="vc_row wpb_row vc_row-fluid no-margin vc_custom_1528793566052 vc_row-has-fill">
+                          <div className="vc_row wpb_row vc_row-fluid no-margin vc_row-has-fill">
                             <div className="wpb_column vc_column_container vc_col-sm-6">
-                              <div className="vc_column-inner vc_custom_1566908578324">
+                              <div className="vc_column-inner">
                                 <div className="wpb_wrapper">
                                   <div className="wpb_text_column wpb_content_element wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_start_animation animated">
                                     <div className="wpb_wrapper"></div>
@@ -990,7 +990,7 @@ export const Header = () => {
                               </div>
                             </div>
                             <div className="wpb_column vc_column_container vc_col-sm-6">
-                              <div className="vc_column-inner vc_custom_1566908586911">
+                              <div className="vc_column-inner">
                                 <div className="wpb_wrapper">
                                   <div className="wpb_text_column wpb_content_element wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_start_animation animated">
                                     <div className="wpb_wrapper"></div>
@@ -1082,9 +1082,9 @@ export const Header = () => {
                           Personal Care &amp; Cosmetics
                         </a>
                         <div className="cf-mega-menu sub-menu">
-                          <div className="vc_row wpb_row vc_row-fluid no-margin vc_custom_1528793566052 vc_row-has-fill">
+                          <div className="vc_row wpb_row vc_row-fluid no-margin  vc_row-has-fill">
                             <div className="wpb_column vc_column_container vc_col-sm-6">
-                              <div className="vc_column-inner vc_custom_1566989874515">
+                              <div className="vc_column-inner ">
                                 <div className="wpb_wrapper">
                                   <div className="wpb_text_column wpb_content_element wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_start_animation animated">
                                     <div className="wpb_wrapper">
@@ -1192,7 +1192,7 @@ export const Header = () => {
                               </div>
                             </div>
                             <div className="wpb_column vc_column_container vc_col-sm-6">
-                              <div className="vc_column-inner vc_custom_1566989880923">
+                              <div className="vc_column-inner">
                                 <div className="wpb_wrapper">
                                   <div className="wpb_text_column wpb_content_element wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_start_animation animated">
                                     <div className="wpb_wrapper">
@@ -1281,9 +1281,9 @@ export const Header = () => {
                           Books, Office &amp; Gifts
                         </a>
                         <div className="cf-mega-menu sub-menu">
-                          <div className="vc_row wpb_row vc_row-fluid no-margin vc_custom_1528793566052 vc_row-has-fill">
+                          <div className="vc_row wpb_row vc_row-fluid no-margin  vc_row-has-fill">
                             <div className="wpb_column vc_column_container vc_col-sm-6">
-                              <div className="vc_column-inner vc_custom_1566908578324">
+                              <div className="vc_column-inner">
                                 <div className="wpb_wrapper">
                                   <div className="wpb_text_column wpb_content_element wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_start_animation animated">
                                     <div className="wpb_wrapper"></div>
@@ -1394,7 +1394,7 @@ export const Header = () => {
                               </div>
                             </div>
                             <div className="wpb_column vc_column_container vc_col-sm-6">
-                              <div className="vc_column-inner vc_custom_1566908586911">
+                              <div className="vc_column-inner">
                                 <div className="wpb_wrapper">
                                   <div className="wpb_text_column wpb_content_element wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_start_animation animated">
                                     <div className="wpb_wrapper"></div>
@@ -1581,7 +1581,7 @@ export const Header = () => {
                         Home
                       </a>
                       <div className="cf-mega-menu sub-menu">
-                        <div className="vc_row wpb_row vc_row-fluid no-margin vc_custom_1528793566052 vc_row-has-fill">
+                        <div className="vc_row wpb_row vc_row-fluid no-margin vc_row-has-fill">
                           <div className="wpb_column vc_column_container vc_col-sm-4">
                             <div className="vc_column-inner">
                               <div className="wpb_wrapper">
@@ -1630,7 +1630,7 @@ export const Header = () => {
                             </div>
                           </div>
                           <div className="wpb_column vc_column_container vc_col-sm-4">
-                            <div className="vc_column-inner vc_custom_1568113992630">
+                            <div className="vc_column-inner">
                               <div className="wpb_wrapper">
                                 <div className="wpb_text_column wpb_content_element  menu-cat">
                                   <div className="wpb_wrapper">
@@ -1677,7 +1677,7 @@ export const Header = () => {
                             </div>
                           </div>
                           <div className="wpb_column vc_column_container vc_col-sm-4">
-                            <div className="vc_column-inner vc_custom_1568113998351">
+                            <div className="vc_column-inner">
                               <div className="wpb_wrapper">
                                 <div className="wpb_text_column wpb_content_element  menu-cat">
                                   <div className="wpb_wrapper">
@@ -1728,11 +1728,11 @@ export const Header = () => {
                     >
                       <a href="https://ibid.modeltheme.com/shop/">Shop</a>
                       <div className="cf-mega-menu sub-menu">
-                        <div className="vc_row wpb_row vc_row-fluid no-margin vc_custom_1528793566052 vc_row-has-fill">
+                        <div className="vc_row wpb_row vc_row-fluid no-margin vc_row-has-fill">
                           <div className="wpb_column vc_column_container vc_col-sm-4">
                             <div className="vc_column-inner">
                               <div className="wpb_wrapper">
-                                <div className="wpb_text_column wpb_content_element  vc_custom_1568704286147">
+                                <div className="wpb_text_column wpb_content_element">
                                   <div className="wpb_wrapper">
                                     <h3
                                       className="title16 text-uppercase font-semibold"
@@ -1792,9 +1792,9 @@ export const Header = () => {
                             </div>
                           </div>
                           <div className="wpb_column vc_column_container vc_col-sm-4">
-                            <div className="vc_column-inner vc_custom_1568113992630">
+                            <div className="vc_column-inner">
                               <div className="wpb_wrapper">
-                                <div className="wpb_text_column wpb_content_element  vc_custom_1568703951022">
+                                <div className="wpb_text_column wpb_content_element">
                                   <div className="wpb_wrapper">
                                     <h3
                                       className="title16 text-uppercase font-semibold"
@@ -1852,7 +1852,7 @@ export const Header = () => {
                             </div>
                           </div>
                           <div className="wpb_column vc_column_container vc_col-sm-4">
-                            <div className="vc_column-inner vc_custom_1568113998351">
+                            <div className="vc_column-inner">
                               <div className="wpb_wrapper">
                                 <div className="wpb_text_column wpb_content_element ">
                                   <div className="wpb_wrapper">
@@ -1926,11 +1926,11 @@ export const Header = () => {
                         Shortcodes
                       </a>
                       <div className="cf-mega-menu sub-menu">
-                        <div className="vc_row wpb_row vc_row-fluid no-margin vc_custom_1528793566052 vc_row-has-fill">
+                        <div className="vc_row wpb_row vc_row-fluid no-margin vc_row-has-fill">
                           <div className="wpb_column vc_column_container vc_col-sm-6">
                             <div className="vc_column-inner">
                               <div className="wpb_wrapper">
-                                <div className="wpb_text_column wpb_content_element  vc_custom_1568710985115">
+                                <div className="wpb_text_column wpb_content_element">
                                   <div className="wpb_wrapper"></div>
                                 </div>
                                 <div
@@ -1983,9 +1983,9 @@ export const Header = () => {
                             </div>
                           </div>
                           <div className="wpb_column vc_column_container vc_col-sm-6">
-                            <div className="vc_column-inner vc_custom_1568113992630">
+                            <div className="vc_column-inner">
                               <div className="wpb_wrapper">
-                                <div className="wpb_text_column wpb_content_element  vc_custom_1568711044817">
+                                <div className="wpb_text_column wpb_content_element">
                                   <div className="wpb_wrapper"></div>
                                 </div>
                                 <div
@@ -2045,11 +2045,11 @@ export const Header = () => {
                     >
                       <a href="https://ibid.modeltheme.com/blog/">Blog</a>
                       <div className="cf-mega-menu sub-menu">
-                        <div className="vc_row wpb_row vc_row-fluid no-margin vc_custom_1528793566052 vc_row-has-fill">
+                        <div className="vc_row wpb_row vc_row-fluid no-margin vc_row-has-fill">
                           <div className="wpb_column vc_column_container vc_col-sm-12">
-                            <div className="vc_column-inner vc_custom_1568113992630">
+                            <div className="vc_column-inner">
                               <div className="wpb_wrapper">
-                                <div className="wpb_text_column wpb_content_element  vc_custom_1568114205449">
+                                <div className="wpb_text_column wpb_content_element">
                                   <div className="wpb_wrapper">
                                     <h3
                                       className="title16 text-uppercase font-semibold"
