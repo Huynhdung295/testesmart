@@ -1,7 +1,7 @@
 import { setClassBody } from "../../Configs/classBody";
 import { Content } from "./Content";
 
-export const CateSubPage = () => {
-  setClassBody(1);
+export const StoreListingPage = () => {
+  setClassBody(3)
   return <Content />;
 };

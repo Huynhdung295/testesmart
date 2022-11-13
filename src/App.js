@@ -1,8 +1,10 @@
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
+import { AboutPage } from "./Pages/AboutPage";
 import { CateSubPage } from "./Pages/CateSubPage";
 import { HomePage } from "./Pages/HomePage";
 import { ProductCatePage } from "./Pages/ProductCatePage";
+import { StoreListingPage } from "./Pages/StoreListingPage";
 
 import { HomeTemplate } from "./Templates/HomeTemplate";
 
@@ -22,6 +24,8 @@ function App() {
             <Route path="product-category">
               <Route path="phones" element={<CateSubPage />} />
             </Route>
+            <Route path="store-listing" element={<StoreListingPage />} />
+            <Route path="about" element={<AboutPage />} />
           </Route>
         </Routes>
       </HomeTemplate>

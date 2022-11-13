@@ -4,15 +4,6 @@ export const ListProduct = () => {
       data-vc-full-width="true"
       data-vc-full-width-init="true"
       className="vc_row wpb_row vc_row-fluid"
-      style={{
-        position: "relative",
-        left: "-16.5px",
-        boxSizing: "border-box",
-        width: 1333,
-        maxWidth: 1333,
-        paddingLeft: "16.5px",
-        paddingRight: "16.5px",
-      }}
     >
       <div className="wpb_column vc_column_container vc_col-sm-12">
         <div className="vc_column-inner">
