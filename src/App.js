@@ -2,6 +2,7 @@ import { Route, Routes } from "react-router-dom";
 import "./App.css";
 import { AboutPage } from "./Pages/AboutPage";
 import { CateSubPage } from "./Pages/CateSubPage";
+import { ContactPage } from "./Pages/ContactPage";
 import { HomePage } from "./Pages/HomePage";
 import { ProductCatePage } from "./Pages/ProductCatePage";
 import { StoreListingPage } from "./Pages/StoreListingPage";
@@ -26,6 +27,8 @@ function App() {
             </Route>
             <Route path="store-listing" element={<StoreListingPage />} />
             <Route path="about" element={<AboutPage />} />
+            <Route path="contact" element={<ContactPage />} />
+
           </Route>
         </Routes>
       </HomeTemplate>

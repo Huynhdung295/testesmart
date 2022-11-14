@@ -21,6 +21,7 @@ export const HomeTemplate = ({ children }) => {
         <Link to="/product-category/phones">Product Phone</Link>
         <Link to="/store-listing">Store</Link>
         <Link to="/about">About</Link>
+        <Link to="/contact">Contact</Link>
 
       </div>
       <HeaderTop />
